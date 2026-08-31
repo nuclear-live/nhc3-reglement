@@ -20,11 +20,11 @@ Selon la nature et la gravité de l’infraction, l’organisation pourra appliq
 - l’annulation du score d’une partie ;
 - la disqualification du participant.
 
-La sanction sera adaptée aux circonstances et à l’influence réelle de l’infraction sur le tournoi.
+La sanction sera décidée par l'organisation selon son propre jugement.
 
 ## Examen de la situation
 
-Avant de prendre une décision, l’organisation pourra consulter :
+Avant de prendre une décision, l’organisation pourra éventuellement consulter :
 
 - le participant concerné ;
 - son modérateur ;
@@ -32,8 +32,6 @@ Avant de prendre une décision, l’organisation pourra consulter :
 - les captures d’écran ;
 - les extraits de stream ;
 - toute autre preuve utile.
-
-Les situations litigieuses seront, dans la mesure du possible, examinées par plusieurs membres de l’organisation.
 
 ## Contestation d’une décision
 
