@@ -213,10 +213,10 @@
 
 
 /* APOCALYPSE */
-.nhc-hero-title {
+.main-content h1.nhc-hero-title {
   margin: 0;
 
-  color: #b06cff;
+  color: #f2eee8;
 
   font-size: 2.6rem;
   font-weight: 700;
@@ -224,13 +224,10 @@
   text-transform: uppercase;
   letter-spacing: 0.06em;
 
-text-shadow:
-  0 0 4px rgba(255, 255, 255, 0.18),
-  0 0 10px rgba(176, 108, 255, 0.55),
-  0 0 22px rgba(143, 63, 242, 0.38),
-  0 0 36px rgba(93, 22, 138, 0.22);
+  text-shadow:
+    2px 2px 0 rgba(93, 22, 138, 0.90),
+    4px 4px 8px rgba(93, 22, 138, 0.40);
 }
-
 
 /* Sous-titre */
 .nhc-hero-subtitle {
