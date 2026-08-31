@@ -315,20 +315,20 @@
 
 /* Bouton secondaire = Or discret */
 .nhc-action-secondary {
-  border-color: rgba(200, 163, 81, 0.60);
+  border-color: #8f3ff2;
 
   background: linear-gradient(
     135deg,
-    rgba(200, 163, 81, 0.12),
-    rgba(255, 255, 255, 0.02)
+    rgba(143, 63, 242, 0.16),
+    rgba(93, 22, 138, 0.10)
   );
 }
 
 .nhc-action-secondary:hover {
-  border-color: #edc75e;
+  border-color: #b06cff;
 
   box-shadow:
-    0 0 12px rgba(200, 163, 81, 0.22);
+    0 0 14px rgba(143, 63, 242, 0.26);
 }
 
 
