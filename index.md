@@ -66,7 +66,7 @@ nav_order: 1
 
   <div class="nhc-info-card">
     <span class="nhc-info-label">Dernière mise à jour</span>
-    <span class="nhc-info-value">24/07/2026</span>
+    <span class="nhc-info-value">31/08/2026</span>
   </div>
 
 </div>
