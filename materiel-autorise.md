@@ -17,7 +17,9 @@ Les éventuelles restrictions concernant les équipements T1, T2 et T3 seront pr
 
 ## Paramètres du jeu
 
-Les participants pourront utiliser les paramètres disponibles directement dans Phasmophobia.
+La luminosité maximale autorisée est de **150 %**, via les réglages directement disponibles dans Phasmophobia.
+
+Tout shader, filtre ou logiciel externe permettant d’augmenter artificiellement la visibilité est interdit.
 
 ## Outils externes
 
