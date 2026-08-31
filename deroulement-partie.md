@@ -32,4 +32,9 @@ Après le top de fin :
 - les morts survenant après la fin du chronomètre ne sont pas prises en compte ;
 - aucune nouvelle action ne peut permettre de gagner ou de perdre des points.
 
+Un objectif n’est comptabilisé que s’il est entièrement validé avant le top de fin.
+
+Ainsi, si une chasse commence avant la fin du chronomètre mais se termine après celui-ci,
+l’objectif « Échapper à une chasse du fantôme » n’est pas comptabilisé.
+
 Les règles définitives concernant le chronomètre seront précisées avant le tournoi.
