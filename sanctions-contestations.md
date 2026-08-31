@@ -46,3 +46,14 @@ Une contestation ne garantit pas la modification de la décision initiale.
 Après examen des informations disponibles, l’organisation communiquera sa décision finale.
 
 Une fois cette décision rendue, aucune nouvelle contestation portant sur les mêmes éléments ne sera acceptée.
+
+## Triche
+
+Toute triche volontaire entraîne :
+
+- un retrait de 10 points ;
+- un avertissement officiel.
+
+En cas de récidive, le participant est éliminé du tournoi.
+
+En finale, toute triche volontaire entraîne une disqualification immédiate.
