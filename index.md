@@ -74,5 +74,6 @@ nav_order: 1
 <div class="nhc-box nhc-important">
   <span class="nhc-box-title">Important</span>
   Le règlement est encore en cours de préparation.<br><br>
-  Toute modification importante sera également annoncée sur le [Discord officiel](https://discord.com/invite/UE3cT4q).
+  Toute modification importante sera également annoncée sur le
+  <a href="https://discord.com/invite/UE3cT4q" target="_blank" rel="noopener noreferrer">Discord officiel</a>.
 </div>
