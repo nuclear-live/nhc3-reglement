@@ -7,18 +7,26 @@ nav_order: 2
 
 # Déroulement du tournoi
 
-Cette page présentera le fonctionnement général de la Nuclear Haunted Cup 3.
+La Nuclear Haunted Cup #3 se déroule sous la forme d’un arbre de tournoi.
 
-## Les différentes phases
+Les participants progressent au fil des différentes parties selon les résultats obtenus et les conditions définies par l’organisation.
 
-Le tournoi sera composé de plusieurs phases.
+## Déroulement des parties
 
-Le détail de chaque phase sera ajouté lorsque le règlement définitif sera validé.
+Les informations propres à chaque partie sont communiquées par l’organisation au moment prévu.
 
-## Qualification
+Selon la partie, ces informations peuvent notamment concerner :
 
-Les conditions de qualification pour la phase suivante seront précisées ici.
+- les participants concernés ;
+- la carte jouée ;
+- le ou les malus appliqués ;
+- les conditions particulières de la partie ;
+- les modalités permettant de poursuivre le tournoi.
 
-## Égalités
+Ces éléments ne sont donc pas nécessairement publiés à l’avance sur le site.
 
-Les règles appliquées en cas d’égalité seront précisées ici.
+## Progression dans le tournoi
+
+Les résultats de chaque partie déterminent la progression des participants dans l’arbre.
+
+Les informations complémentaires concernant le déroulement général seront communiquées lors de la présentation officielle du tournoi ou au cours de celui-ci.
