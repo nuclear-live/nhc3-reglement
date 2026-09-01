@@ -28,6 +28,6 @@ Les consignes seront précisées avant le lancement de la partie.
 
 ## Objet inaccessible ou inutilisable
 
-Si un objet maudit est inaccessible, inutilisable ou affecté par un bug, le participant devra immédiatement prévenir son modérateur qui préviendra l'organisation via le canal discord dédié.
+Si un objet maudit est inaccessible, inutilisable ou affecté par un bug, le participant devra immédiatement prévenir son modérateur qui préviendra l'organisation via le canal Discord dédié.
 
 Aucune solution ne devra être improvisée sans l’accord de l’équipe d’organisation. Si le bug n'est pas remonté et que la partie ne se déroule pas correctement, il en sera de la responsabilité du streamer et du modérateur et la partie ne sera pas rejouée.
