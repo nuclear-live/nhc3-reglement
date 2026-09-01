@@ -26,7 +26,7 @@ Tout shader, filtre ou logiciel externe permettant d’augmenter artificiellemen
 Sont notamment autorisés :
 
 - les timers ;
-- les overlays servant uniquement à afficher ou conserver des preuves, non intéractif ;
+- les overlays servant uniquement à afficher ou conserver des preuves, non intéractifs ;
 - les outils expressément validés par l’équipe d’organisation.
 
 Un overlay est considéré comme non interactif lorsque les spectateurs ne peuvent pas le modifier ou transmettre des informations au participant par son intermédiaire.
