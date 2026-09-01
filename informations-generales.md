@@ -22,6 +22,7 @@ Les participants devront respecter l’ensemble des règles présentées sur ce 
 - Heure du lancement officiel : 21h
 - Chaîne officielle : [Nuclear_Live](https://www.twitch.tv/nuclear_live)
 - Format du tournoi : Arbre de tournoi
+
 ## Communication
 
 Les annonces importantes seront publiées sur le serveur Discord officiel.
