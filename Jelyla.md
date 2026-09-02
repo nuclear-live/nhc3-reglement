@@ -2,7 +2,7 @@
 layout: default
 title: Jelyla
 parent: Participants
-nav_order: 8
+nav_order: 11
 nav_exclude: true
 search_exclude: true
 published: false
