@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brecors
+title: Camdarcy
 parent: Participants
 nav_order: 3
 ---
