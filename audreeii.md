@@ -34,7 +34,10 @@ nav_order: 1
 
 ## Présentation
 
-Présentation à venir.
+- **Pseudo :** Audreeii
+- **Chaîne Twitch :** [Audreeii](https://www.twitch.tv/audreeii)
+- **Expérience sur Phasmophobia :** A voir
+- **Spécialité :** A venir
 
 ## Informations
 
