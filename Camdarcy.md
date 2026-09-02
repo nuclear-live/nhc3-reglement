@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Camdarcy
-nav_order: 3
-nav_exclude: true
-search_exclude: true
-published: false
+title: Brecors
+parent: Participants
+nav_order: 2
 ---
 
 <div class="nhc-participant-header">
