@@ -34,7 +34,7 @@ nav_order: 1
 
 ## Présentation
 
-~ Disney | Gaming | Râleuse à temps plein ~ 
+~ Disney - Gaming - Râleuse à temps plein ~ 
 
 ## Informations
 
