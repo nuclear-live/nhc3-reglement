@@ -32,7 +32,7 @@ nav_order: 1
   </div>
 </div>
 
-## Présentation
+## Introduction
 
 - **Chaîne Twitch :** [Audreeii](https://www.twitch.tv/audreeii)
 - **Présentation :** A venir
