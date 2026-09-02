@@ -32,17 +32,20 @@ nav_order: 1
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Audreeii](https://www.twitch.tv/audreeii)
-- **Présentation :** A venir
+~ Disney | Gaming | Râleuse à temps plein ~ 
 
 ## Informations
 
-**Participations précédentes :** Nuclear Haunted Cup #1 et #2<br>
-**Expérience sur Phasmophobia :** À voir<br>
+**Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+**NHC #1 :** participante<br>
+**NHC #2 :** participante
