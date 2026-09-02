@@ -3,6 +3,9 @@ layout: default
 title: Majin_Swan
 parent: Participants
 nav_order: 12
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
