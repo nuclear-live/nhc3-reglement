@@ -3,6 +3,9 @@ layout: default
 title: Gunships32
 parent: Participants
 nav_order: 7
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
@@ -32,17 +35,19 @@ nav_order: 7
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Gunships32](https://www.twitch.tv/gunships32)
-- **Présentation :** À venir
+À venir.
 
 ## Informations
 
-**Participations précédentes :** Première participation<br>
 **Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+Première participation.
