@@ -3,6 +3,9 @@ layout: default
 title: Noxyum_
 parent: Participants
 nav_order: 14
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
