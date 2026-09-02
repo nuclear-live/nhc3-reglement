@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Brecors
-parent: Participants
-nav_order: 2
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
