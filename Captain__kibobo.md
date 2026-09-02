@@ -3,6 +3,9 @@ layout: default
 title: Captain__kibobo
 parent: Participants
 nav_order: 4
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
@@ -25,17 +28,19 @@ nav_order: 4
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Captain__kibobo](https://www.twitch.tv/captain__kibobo)
-- **Présentation :** À venir
+À venir.
 
 ## Informations
 
-**Participations précédentes :** Nuclear Haunted Cup #2<br>
 **Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+**NHC #2 :** Participant
