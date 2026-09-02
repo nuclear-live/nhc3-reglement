@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Audreeii
-nav_exclude: true
-search_exclude: true
-published: false
+parent: Participants
+nav_order: 1
 ---
 
 <div class="nhc-participant-header">
