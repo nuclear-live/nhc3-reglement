@@ -34,17 +34,19 @@ published: false
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Camdarcy](https://www.twitch.tv/camdarcy)
-- **Présentation :** À venir
+À venir.
 
 ## Informations
 
-**Participations précédentes :** Nuclear Haunted Cup #2<br>
 **Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+**NHC #2 :** Participant
