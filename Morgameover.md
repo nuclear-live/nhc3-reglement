@@ -2,7 +2,7 @@
 layout: default
 title: Morgameover
 parent: Participants
-nav_order: 10
+nav_order: 13
 ---
 
 <div class="nhc-participant-header">
