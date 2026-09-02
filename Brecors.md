@@ -33,17 +33,21 @@ published: false
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Brecors](https://www.twitch.tv/brecors)
-- **Présentation :** A venir
+À venir.
 
 ## Informations
 
-**Participations précédentes :** Nuclear Haunted Cup #1 et #2<br>
-**Expérience sur Phasmophobia :** À voir<br>
+**Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+**NHC #1 :** participant<br>
+**NHC #2 :** participant<br>
+**À l'épreuve du Nuclear #2 :** participant
