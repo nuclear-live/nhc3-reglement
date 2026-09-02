@@ -38,9 +38,9 @@ Présentation à venir.
 
 ## Informations
 
-**Participations précédentes :** Nuclear Haunted Cup #1 et #2 
-**Expérience sur Phasmophobia :** À venir  
-**Spécialité :** À venir  
+**Participations précédentes :** Nuclear Haunted Cup #1 et #2<br>
+**Expérience sur Phasmophobia :** À venir<br>
+**Spécialité :** À venir
 
 ## Parcours
 
