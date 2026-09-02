@@ -35,13 +35,12 @@ nav_order: 1
 ## Présentation
 
 - **Chaîne Twitch :** [Audreeii](https://www.twitch.tv/audreeii)
-- **Expérience sur Phasmophobia :** A voir
-- **Spécialité :** A venir
+- **Présentation :** A venir
 
 ## Informations
 
 **Participations précédentes :** Nuclear Haunted Cup #1 et #2<br>
-**Expérience sur Phasmophobia :** À venir<br>
+**Expérience sur Phasmophobia :** À voir<br>
 **Spécialité :** À venir
 
 ## Parcours
