@@ -3,6 +3,9 @@ layout: default
 title: Jelyla
 parent: Participants
 nav_order: 8
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
@@ -16,7 +19,7 @@ nav_order: 8
     <h1 class="nhc-participant-name">Jelyla</h1>
 
     <p class="nhc-participant-summary">
-      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
+      Participante de la Nuclear Haunted Cup #3 : Apocalypse.
     </p>
 
     <div class="nhc-participant-links">
@@ -32,17 +35,19 @@ nav_order: 8
   </div>
 </div>
 
-## Introduction
+## Présentation
 
-- **Chaîne Twitch :** [Jelyla](https://www.twitch.tv/jelyla)
-- **Présentation :** À venir
+À venir.
 
 ## Informations
 
-**Participations précédentes :** Première participation<br>
 **Expérience sur Phasmophobia :** À venir<br>
 **Spécialité :** À venir
 
-## Parcours
+## À propos
 
 À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+Première participation.
