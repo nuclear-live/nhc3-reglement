@@ -489,3 +489,13 @@
     height: 110px;
   }
 }
+
+/* Liens principaux du menu latéral */
+.site-nav > .nav-list > .nav-list-item > .nav-list-link {
+  color: #edc75e;
+}
+
+/* Survol des liens principaux */
+.site-nav > .nav-list > .nav-list-item > .nav-list-link:hover {
+  color: #ffe08a;
+}
