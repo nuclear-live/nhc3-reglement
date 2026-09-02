@@ -3,6 +3,9 @@ layout: default
 title: Ragzod
 parent: Participants
 nav_order: 16
+nav_exclude: true
+search_exclude: true
+published: false
 ---
 
 <div class="nhc-participant-header">
