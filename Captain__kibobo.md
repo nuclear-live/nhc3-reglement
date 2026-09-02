@@ -2,7 +2,7 @@
 layout: default
 title: Captain__kibobo
 parent: Participants
-nav_order: 4
+nav_order: 7
 nav_exclude: true
 search_exclude: true
 published: false
