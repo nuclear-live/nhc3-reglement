@@ -10,7 +10,7 @@ published: false
   <img
     class="nhc-participant-avatar"
     src="{{ '/assets/participants/Brecors.png' | relative_url }}"
-    alt="Avatar de Audreeii"
+    alt="Avatar de Brecors"
   >
 
   <div>
