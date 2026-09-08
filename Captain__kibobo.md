@@ -1,0 +1,47 @@
+---
+layout: default
+title: Captain__kibobo
+parent: Participants
+nav_order: 7
+nav_exclude: true
+search_exclude: true
+published: false
+participant_image: "/assets/participants/Captain__kibobo.png"
+---
+
+<div class="nhc-participant-header">
+  <img
+    class="nhc-participant-avatar"
+    src="{{ '/assets/participants/Captain__kibobo.png' | relative_url }}"
+    alt="Avatar de Captain__kibobo"
+  >
+
+  <div>
+    <h1 class="nhc-participant-name">Captain__kibobo</h1>
+
+    <p class="nhc-participant-summary">
+      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
+    </p>
+
+    <div class="nhc-participant-links">
+      <!-- Lien Twitch à ajouter -->
+    </div>
+  </div>
+</div>
+
+## Présentation
+
+À venir.
+
+## Informations
+
+**Expérience sur Phasmophobia :** À venir<br>
+**Spécialité :** À venir
+
+## À propos
+
+À venir.
+
+## Parcours dans la Nuclear Haunted Cup
+
+**NHC #2 :** Participant
