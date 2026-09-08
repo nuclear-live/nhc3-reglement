@@ -7,7 +7,7 @@ plugins:
   - jekyll-remote-theme
 
 url: "https://nuclear-live.github.io"
-baseurl: "/nhc3"
+baseurl: "/nhc3-reglement"
 
 search_enabled: true
 heading_anchors: true
@@ -20,7 +20,7 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
 
-favicon_ico: "/nhc3/logo-nuclear-live.png"
+favicon_ico: "/nhc3-reglement/logo-nuclear-live.png"
 
 defaults:
   - scope:
