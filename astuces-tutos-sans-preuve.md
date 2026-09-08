@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Tutoriels Sans Preuve
+parent: Astuces et ressources
 nav_order: 3
-nav_exclude: true
-search_exclude: true
 published: false
 ---
 
