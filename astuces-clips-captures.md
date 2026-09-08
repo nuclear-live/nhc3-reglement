@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Clips et captures
+parent: Astuces et ressources
 nav_order: 1
-nav_exclude: true
-search_exclude: true
 published: false
 ---
 
