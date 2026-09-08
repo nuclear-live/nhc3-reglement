@@ -38,16 +38,21 @@ participant_image: "/assets/participants/olcy__.png"
 
 ## Présentation
 
-À venir.
+En passe de devenir vieux, plutôt posé que hyperactif, avec un humour parfois tiré par les cheveux !
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :** 
+
+Je joue régulièrement depuis mars 2026, je ne pense pas être bon mais je pense avoir un peu plus que les bases. Je joue pas toujours sur la défensive et j’aime relever des défis en stream.
+
+**Spécialité :**
+
+Poser un objet et le perdre.
 
 ## À propos
 
-À venir.
+Je stream essentiellement du jeu d’horreur avec une addiction à Phasmo. A côté de ça sur mes réseaux je publie une vidéo par jour autour du lore de Star Citizen. En dehors des streams j’aime les vieilles séries des années 90, la moutarde à l’ancienne et la guitare.
 
 ## Parcours dans la Nuclear Haunted Cup
 
