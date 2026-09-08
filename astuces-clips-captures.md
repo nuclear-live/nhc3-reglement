@@ -28,7 +28,7 @@ Par exemple :
 - Écran final
 - Statistiques détaillées
 
-Le nom ou la description du clip doit permettre de comprendre rapidement ce qu'il contient.
+Le nom ou la description du clip doit permettre de comprendre rapidement ce qu'il contient pour que vous puissiez rapidement retrouvé la preuve dont vous avez besoin.
 
 ## Organiser ses captures d'écran
 
