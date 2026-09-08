@@ -37,13 +37,9 @@ Un guide de configuration StreamElements est mis à disposition afin d'aider les
 
 Il contient notamment l'installation du bot, la configuration des mots bloqués ainsi que les listes liées aux entités et aux preuves.
 
-<a
-  class="nhc-action"
-  href="{{ '/assets/downloads/nhc3-streamelements-anti-backseat.docx' | relative_url }}"
-  download
->
-  Télécharger le guide anti-backseat
-</a>
+<div class="nhc-actions">
+  <a class="nhc-action" href="{{ '/assets/downloads/nhc3-streamelements-anti-backseat.docx' | relative_url }}" download>Télécharger le guide anti-backseat</a>
+</div>
 
 ## Information donnée sans être demandée
 
