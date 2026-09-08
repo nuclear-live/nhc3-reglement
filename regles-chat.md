@@ -31,6 +31,20 @@ Les solutions actuellement envisagées sont :
 
 Le chat pourra fonctionner normalement entre les parties, sauf indication contraire de l’organisation. Streamelements permettant de désactiver les listes de mots bannis à tout moment. Ne pas oublier de les réactiver.
 
+## Guide anti-backseat
+
+Un guide de configuration StreamElements est mis à disposition afin d'aider les participants à mettre en place le système de mots interdits utilisé pendant le tournoi.
+
+Il contient notamment l'installation du bot, la configuration des mots bloqués ainsi que les listes liées aux entités et aux preuves.
+
+<a
+  class="nhc-action"
+  href="{{ '/assets/downloads/nhc3-streamelements-anti-backseat.docx' | relative_url }}"
+  download
+>
+  Télécharger le guide anti-backseat
+</a>
+
 ## Information donnée sans être demandée
 
 Un participant ne sera pas automatiquement sanctionné lorsqu’un spectateur publie une aide sans son accord.
