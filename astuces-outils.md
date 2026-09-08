@@ -1,10 +1,8 @@
-
 ---
 layout: default
 title: Outils utiles
+parent: Astuces et ressources
 nav_order: 2
-nav_exclude: true
-search_exclude: true
 published: false
 ---
 
@@ -20,7 +18,7 @@ Le calculateur officiel du tournoi permet de faciliter le suivi du score.
 
 Il est également accessible depuis la page **Calcul des points** du règlement.
 
-[Lien vers le calculateur à ajouter]
+Lien vers le calculateur à ajouter.
 
 ## Trackers et outils Phasmophobia
 
