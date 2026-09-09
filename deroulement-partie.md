@@ -41,3 +41,11 @@ Ainsi, si une chasse commence avant la fin du chronomètre mais se termine aprè
 l’objectif « Échapper à une chasse du fantôme » n’est pas comptabilisé.
 
 Les règles définitives concernant le chronomètre seront précisées avant le tournoi.
+
+### Chasse en cours à la fin du temps imparti
+
+Si une chasse est encore en cours au moment du top de fin, le participant attend la fin de celle-ci avant de rejoindre le camion.
+
+Une mort survenant après la fin du temps imparti, lors du retour au camion, n'entraîne pas de retrait de points.
+
+Aucun objectif réalisé après le top de fin ne sera comptabilisé. Par exemple : échapper à une chasse ne sera pas validé.
