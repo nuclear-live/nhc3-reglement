@@ -31,6 +31,22 @@ Sont notamment autorisés :
 
 Un overlay est considéré comme non interactif lorsque les spectateurs ne peuvent pas le modifier ou transmettre des informations au participant par son intermédiaire.
 
+## Sites, wikis et outils d'aide
+
+Les sites, wikis et outils externes permettant de consulter manuellement des informations générales sur Phasmophobia sont autorisés.
+
+Cela comprend notamment :
+
+- les informations concernant les entités et leurs caractéristiques ;
+- les cartes ;
+- les emplacements possibles des objets maudits ;
+- les emplacements ou informations générales utiles à l'enquête ;
+- les outils de type cheat sheet utilisés manuellement par le participant.
+
+L'utilisation de ces ressources doit rester **manuelle**.
+
+Toute fonctionnalité analysant automatiquement la partie ou fournissant directement une information issue du gameplay en cours est interdite.
+
 ## Validation préalable
 
 En cas de doute concernant un logiciel, un overlay ou un réglage particulier, le participant devra demander sa validation avant le tournoi.
