@@ -7,7 +7,7 @@ nav_order: 1
 
 # Version 1.0
 
-**Date de publication :** 10 septembre 2026  
+**Date de publication :** 08 septembre 2026  
 **Statut :** règlement en cours de préparation
 
 Cette première version met en place le règlement de la Nuclear Haunted Cup #3 : Apocalypse.
