@@ -15,6 +15,9 @@ Le participant doit être prêt dans le lobby et attendre les consignes données
 
 Une fois les réglages faits, les participants chargent dans le camion et attendent le top départ officiel avant de toucher au matériel (écrans du camion, matériel des joueurs, clé, etc.). Se promener, regarder les objectifs sont permis.
 
+/!\ TOUTE INTÉRACTION EST INTERDITE AVANT LE TOP DÉPART /!\
+
+
 ## Chronomètre
 
 Chaque partie dispose d’une durée limitée.
