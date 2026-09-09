@@ -60,6 +60,8 @@ Cela comprend notamment le fait de vérifier les résultats ou l'avancement des 
 
 Toute utilisation volontaire d'informations obtenues de cette manière, directement par le streamer ou par quelqu'un dans le chat, sera considérée comme de la triche et sanctionnée par l'organisation.
 
+Si vous laissez le stream de Nuclear_Live ouvert, veuillez le muter. Vous aurez les informations de game en direct sur discord avant chaque game.
+
 ## Décision de l’organisation
 
 En cas de doute, l’équipe d’organisation déterminera si un outil ou un comportement procure un avantage contraire à l’esprit du tournoi.
