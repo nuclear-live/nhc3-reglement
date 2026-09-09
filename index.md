@@ -51,12 +51,12 @@ nav_order: 1
 
   <div class="nhc-info-card">
     <span class="nhc-info-label">Version du règlement</span>
-    <span class="nhc-info-value">1.0</span>
+    <span class="nhc-info-value">1.1</span>
   </div>
 
   <div class="nhc-info-card">
     <span class="nhc-info-label">Dernière mise à jour</span>
-    <span class="nhc-info-value">08/09/2026</span>
+    <span class="nhc-info-value">09/09/2026</span>
   </div>
 </div>
 
