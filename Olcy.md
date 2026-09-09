@@ -1,6 +1,6 @@
 ---
 layout: default
-title: olcy__
+title: Olcy__
 parent: Participants
 nav_order: 15
 nav_exclude: true
@@ -17,7 +17,7 @@ participant_image: "/assets/participants/olcy__.png"
   >
 
   <div>
-    <h1 class="nhc-participant-name">olcy__</h1>
+    <h1 class="nhc-participant-name">Olcy__</h1>
 
     <p class="nhc-participant-summary">
       Participant de la Nuclear Haunted Cup #3 : Apocalypse.
