@@ -15,3 +15,4 @@ nav_order: 2
 - Stream Hack interdit (section éléments interdits)
 - Les overlays automatiques sont interdits (voir section éléments interdits)
 - Les sites extérieurs sont autorisés pour certains (cf éléments autorisés)
+- Précisions sur la fin du chrono et ce qui est validé ou pas (cf déroulement d'une partie)
