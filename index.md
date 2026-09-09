@@ -27,6 +27,10 @@ nav_order: 1
       alt="Logo Nuclear Live"
     >
   </div>
+
+  <button class="nhc-trex" type="button" onclick="toggleTrexSound()" aria-label="T-Rex">
+  <img src="{{ '/assets/downloads/trex.png' | relative_url }}" alt="">
+</button>
 </div>
 
 <div class="nhc-actions">
@@ -106,3 +110,21 @@ nav_order: 1
   Toute modification importante sera également annoncée sur le
   <a href="https://discord.com/invite/UE3cT4q" target="_blank" rel="noopener noreferrer">Discord officiel</a>.
 </div>
+
+<audio id="trex-sound" preload="auto">
+  <source src="{{ '/assets/downloads/jurassic-park.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+<script>
+function toggleTrexSound() {
+  const sound = document.getElementById("trex-sound");
+
+  if (sound.paused) {
+    sound.currentTime = 0;
+    sound.play();
+  } else {
+    sound.pause();
+    sound.currentTime = 0;
+  }
+}
+</script>
