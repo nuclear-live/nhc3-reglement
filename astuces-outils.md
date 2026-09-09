@@ -38,3 +38,19 @@ Les overlays interactifs avec le chat, les shaders et les outils modifiant artif
 Un guide de configuration StreamElements est disponible afin d'aider les participants à mettre en place les mots interdits nécessaires pendant le tournoi.
 
 Le guide complet est disponible dans la page **Règles concernant le chat**.
+
+## Problème de reconnaissance vocale
+
+Si la reconnaissance vocale de Phasmophobia ne semble plus fonctionner, commencez par vérifier que le jeu est bien la fenêtre active.
+
+Une première manipulation simple consiste à :
+
+1. Faire **Alt + Tab** pour quitter momentanément le jeu.
+2. Revenir sur Phasmophobia en cliquant avec la souris sur la fenêtre de jeu.
+4. Tester à nouveau la reconnaissance vocale.
+
+Cette manipulation peut suffire à rétablir la détection vocale.
+
+Si le problème persiste, vous pouvez également passer temporairement le système de reconnaissance vocale du jeu en **mode Texte** afin de pouvoir continuer à utiliser les interactions nécessitant une réponse.
+
+Les bugs étant courant au niveau de la reconnaissance vocale, faites au plus simple afin de ne pas perdre de temps.
