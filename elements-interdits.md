@@ -44,6 +44,12 @@ Sont interdits :
 
 Les règles détaillées concernant le chat seront présentées dans une section spécifique.
 
+### Overlays automatisés
+
+Les fonctions d'overlay capables d'analyser ou de compter automatiquement des éléments de la partie sont interdites.
+
+Cela concerne notamment les fonctions permettant de **compter automatiquement les pas de l'entité**.
+
 ## Stream hack
 
 Le **stream hack est strictement interdit**.
