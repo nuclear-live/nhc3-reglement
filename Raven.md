@@ -1,6 +1,6 @@
 ---
 layout: default
-title: xr4ven_tv
+title: xR4ven_tv
 parent: Participants
 nav_order: 18
 nav_exclude: true
@@ -17,7 +17,7 @@ participant_image: "/logo-nuclear-live.png"
   >
 
   <div>
-    <h1 class="nhc-participant-name">xr4ven_tv</h1>
+    <h1 class="nhc-participant-name">xR4ven_tv</h1>
 
     <p class="nhc-participant-summary">
       Participant de la Nuclear Haunted Cup #3 : Apocalypse.
