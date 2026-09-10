@@ -6,14 +6,14 @@ nav_order: 3
 nav_exclude: true
 search_exclude: true
 published: false
-participant_image: "/logo-nuclear-live.png"
+participant_image: "/assets/participants/Berl_uue.png"
 ---
 
 <div class="nhc-participant-header">
   <img
     class="nhc-participant-avatar"
-    src="{{ '/logo-nuclear-live.png' | relative_url }}"
-    alt="Avatar de berl_uue en attente"
+    src="{{ '/assets/participants/Berl_uue.png' | relative_url }}"
+    alt="Avatar de Berl_uue"
   >
 
   <div>
