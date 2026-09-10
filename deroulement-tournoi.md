@@ -30,3 +30,11 @@ Ces éléments ne sont donc pas nécessairement publiés à l’avance sur le si
 Les résultats de chaque partie déterminent la progression des participants dans l’arbre.
 
 Les informations complémentaires concernant le déroulement général seront communiquées lors de la présentation officielle du tournoi ou au cours de celui-ci.
+
+## Finale
+
+La finale dispose d'un fonctionnement particulier.
+
+Afin de limiter la durée de la partie, **la zone accessible aux finalistes se réduit progressivement au fil du temps**.
+
+Les modalités précises de la finale et les consignes données aux finalistes sont communiquées par l'organisation au moment prévu.
