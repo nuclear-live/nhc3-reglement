@@ -11,14 +11,21 @@ Retrouvez ici les différentes versions publiées du règlement de la Nuclear Ha
 
 <div class="nhc-box nhc-important">
   <span class="nhc-box-title">Version actuelle</span>
-  Version 1.0 — Règlement mis en place.
+  <strong>Version 2.0</strong><br>
+  MAJ du 10/09/2026
+</div>
+
+<div class="nhc-timeline">
+  <div class="nhc-timeline-item">
+    <span class="nhc-timeline-date">10 septembre 2026</span>
+  <strong>Version 1.1</strong><br>
+    
 </div>
 
 <div class="nhc-timeline">
   <div class="nhc-timeline-item">
     <span class="nhc-timeline-date">08 septembre 2026</span>
     <strong>Version 1.0</strong><br>
-    Première version de travail publiée pour le règlement de la NHC #3.
   </div>
 </div>
 
