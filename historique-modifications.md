@@ -34,8 +34,3 @@ Retrouvez ici les différentes versions publiées du règlement de la Nuclear Ha
 Une nouvelle version sera publiée lorsqu’une règle sera ajoutée ou modifiée.
 
 Les corrections mineures de forme ne donneront pas systématiquement lieu à une nouvelle version.
-## Fonctionnement des versions
-
-Une nouvelle version sera publiée lorsqu’une règle sera ajouté ou modifié.
-
-Les corrections mineures de forme ne donneront pas systématiquement lieu à une nouvelle version.
