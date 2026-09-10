@@ -16,9 +16,7 @@ Seuls les outils conformes au règlement sont autorisés pendant les parties.
 
 Le calculateur officiel du tournoi permet de faciliter le suivi du score.
 
-Il est également accessible depuis la page **Calcul des points** du règlement.
-
-Lien vers le calculateur à ajouter.
+Il est également accessible depuis la page [**Calcul des points**](https://yekelle.github.io/nhc3/calcul-points.html) du règlement.
 
 ## Trackers et outils Phasmophobia
 
@@ -32,6 +30,8 @@ Certains outils externes permettent de consulter des informations générales su
 L'utilisation d'un outil ne doit cependant jamais fournir un avantage interdit par le règlement.
 
 Les overlays interactifs avec le chat, les shaders et les outils modifiant artificiellement la visibilité restent notamment interdits.
+
+Exemple de site autorisé : [Phasmo sheet](https://tybayn.github.io/phasmo-cheat-sheet/?lang=fr), [wiki phasmo](https://tybayn.github.io/phasmo-cheat-sheet/?lang=fr)
 
 ## Guide anti-backseat
 
