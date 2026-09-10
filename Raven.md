@@ -6,14 +6,14 @@ nav_order: 18
 nav_exclude: true
 search_exclude: true
 published: false
-participant_image: "/logo-nuclear-live.png"
+participant_image: "/assets/participants/Raven.png"
 ---
 
 <div class="nhc-participant-header">
   <img
     class="nhc-participant-avatar"
-    src="{{ '/logo-nuclear-live.png' | relative_url }}"
-    alt="Avatar de xr4ven_tv en attente"
+    src="{{ '/assets/participants/Raven.png' | relative_url }}"
+    alt="Avatar de xR4ven_tv"
   >
 
   <div>
