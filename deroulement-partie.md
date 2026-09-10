@@ -17,6 +17,13 @@ Une fois les réglages faits, les participants chargent dans le camion et attend
 
 /!\ TOUTE INTÉRACTION EST INTERDITE AVANT LE TOP DÉPART /!\
 
+## Durée des parties
+
+La plupart des parties disposent d'un temps imparti de **10 minutes**, sauf mention contraire de l'organisation lors de la préparation de la partie.
+
+Chaque partie comportera un ou des **malus spécifique(s)**, communiqué(s) par l'organisation avant son lancement.
+
+Les conditions précises d'une partie peuvent varier au cours du tournoi et sont communiquées aux participants au moment prévu.
 
 ## Chronomètre
 
