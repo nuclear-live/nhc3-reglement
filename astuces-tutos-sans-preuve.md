@@ -14,7 +14,9 @@ Cette page regroupera une sélection de tutoriels destinés à aider les partici
 
 ## Tutoriels recommandés
 
-Les tutoriels officiels recommandés pour cette édition seront ajoutés prochainement.
+Vous pouvez avoir les vidéos tutos pour en savoir plus sur les identités. Il en existe une multitude sur Youtube et autres réseaux sociaux ! On est certains que vous pouvez compter sur l’entraide des uns des autres.
+
+Sinon pour avoir des infos pour vous perfectionner qui soient sérieux, vous avez les vidéos de DeadelusTV [ici](https://www.youtube.com/playlist?list=PL-fyrrZ6KfGkn4a2bt07-HqyjIncP_X7g). Très bien expliqués et faciles à comprendre.
 
 Ils pourront notamment couvrir :
 
