@@ -2,29 +2,31 @@
 layout: default
 title: Lots à gagner
 nav_order: 5
-published: false
 ---
 
 # Lots à gagner
 
-La Nuclear Haunted Cup #3 : Apocalypse récompensera les participants les mieux classés de cette édition.
+Les participants les mieux classés de la Nuclear Haunted Cup #3 : Apocalypse remporteront les récompenses suivantes.
 
-Les lots seront révélés lors de l'annonce officielle.
+## 1re place
 
-## Récompenses
+**Trophée Apocalypse Or**  
+**Carte cadeau Instant Gaming de 50 €**
 
-### 1re place
+## 2e place
 
-À venir.
+**Trophée Apocalypse Argent**  
+**Carte cadeau Instant Gaming de 30 €**
 
-### 2e place
+## 3e place
 
-À venir.
+**Trophée Apocalypse Bronze**  
+**Carte cadeau Instant Gaming de 10 €**
 
-### 3e place
+## 4e place
 
-À venir.
+**Carte cadeau Instant Gaming de 10 €**
 
-### 4e place
+## Goodies
 
-À venir.
+Chaque participant ainsi que chaque modérateur recevra également un **goodie de la Nuclear Haunted Cup #3**.
