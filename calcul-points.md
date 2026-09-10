@@ -12,7 +12,7 @@ Le score de chaque partie est calculé selon les éléments validés au cours de
 <div class="nhc-score-grid">
   <div class="nhc-score-card"><strong>5 pts</strong><span>Fantôme identifié</span></div>
   <div class="nhc-score-card"><strong>2 pts</strong><span>Par objectif secondaire</span></div>
-  <div class="nhc-score-card"><strong>1 point maximum pts</strong><spanPar preuve audio ou vidéo unique</span></div>
+  <div class="nhc-score-card"><strong>1 point maximum pts</strong><span>Par preuve audio ou vidéo unique</span></div>
   <div class="nhc-score-card"><strong>14 pts</strong><span>Maximum avant malus</span></div>
 </div>
 
