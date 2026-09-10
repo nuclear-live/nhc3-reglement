@@ -12,6 +12,7 @@ Le score de chaque partie est calculé selon les éléments validés au cours de
 <div class="nhc-score-grid">
   <div class="nhc-score-card"><strong>5 pts</strong><span>Fantôme identifié</span></div>
   <div class="nhc-score-card"><strong>2 pts</strong><span>Par objectif secondaire</span></div>
+  <div class="nhc-score-card"><strong>1 point maximum pts</strong><spanPar preuve audio ou vidéo unique</span></div>
   <div class="nhc-score-card"><strong>14 pts</strong><span>Maximum avant malus</span></div>
 </div>
 
@@ -27,6 +28,10 @@ Chaque objectif secondaire réalisé rapporte **2 points**, soit un maximum de *
 
 - Preuve audio unique : **1 point maximum**.
 - Preuve vidéo unique : **1 point maximum**.
+
+Une seule preuve de chaque type peut rapporter des points.
+
+Ainsi, même si plusieurs preuves audio ou plusieurs preuves vidéo sont enregistrées au cours d'une partie, le participant ne pourra obtenir qu'un maximum de **1 point pour l'audio** et **1 point pour la vidéo**.
 
 ## Partie parfaite
 
