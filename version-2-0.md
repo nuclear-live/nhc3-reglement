@@ -2,7 +2,7 @@
 layout: default
 title: Version 2.0
 parent: Historique des modifications
-nav_order: 2
+nav_order: 3
 ---
 
 # Version 2.0
