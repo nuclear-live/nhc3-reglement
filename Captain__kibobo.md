@@ -19,12 +19,19 @@ participant_image: "/assets/participants/Captain__kibobo.png"
   <div>
     <h1 class="nhc-participant-name">Captain__kibobo</h1>
 
-    <p class="nhc-participant-summary">
-      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
+     <p class="nhc-participant-summary">
+      Participante de la Nuclear Haunted Cup #3 : Apocalypse.
     </p>
 
     <div class="nhc-participant-links">
-      <!-- Lien Twitch à ajouter -->
+      <a
+        class="nhc-action"
+        href="https://www.twitch.tv/captain__kibobo"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Twitch
+      </a>
     </div>
   </div>
 </div>
