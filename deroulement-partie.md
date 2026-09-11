@@ -49,6 +49,12 @@ l’objectif « Échapper à une chasse du fantôme » n’est pas comptabilisé
 
 Les règles définitives concernant le chronomètre seront précisées avant le tournoi.
 
+Le temps utilisé peut être pris en compte pour départager des participants ayant obtenu le même nombre de points.
+
+Dans ce cas, **le timer fait foi**. Il est donc demandé de conserver une capture d'écran ou un clip permettant de vérifier cette information.
+
+Une fois votre partie terminée, **quittez la partie dès que possible** afin que le temps enregistré corresponde réellement à votre durée de jeu. N'attendez pas la fin du chronomètre.
+
 ### Chasse en cours à la fin du temps imparti
 
 Si une chasse est encore en cours au moment du top de fin, le participant attend la fin de celle-ci avant de rejoindre le camion.
