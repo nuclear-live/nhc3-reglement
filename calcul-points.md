@@ -54,6 +54,10 @@ Une partie parfaite rapporte **1 point bonus supplémentaire**.
 - Mort d'un joueur : **-2 points par mort**.
 - Malus non respecté : **-5 points**.
 
+En cas de **lune de sang**, aucun remake de la game ne sera fait (du fait que la météo ne sera découverte qu'après le top départ, pour des raisons d'organisation on ne peut pas refaire faire la game). En contre-partie, et pour équilibrer la difficulté, en cas de mort du joueur le malus sera seulement de -1 point au lieu de 2.
+
+De même, si un joueur meurt pendant la game, et se fait récussiter par une grand prêtresse ou la monkey paw, la mort ne compte pas. Seul le tableau de fin fait fois de la mort ou pas du joueur.
+
 ## Validation du score
 
 Le score de chaque partie est calculé par le modérateur du streamer, puis vérifié par l'équipe d'organisation avant sa validation définitive.
