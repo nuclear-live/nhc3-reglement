@@ -12,6 +12,24 @@ Plusieurs outils peuvent faciliter la préparation ou le suivi d'une partie pend
 
 Seuls les outils conformes au règlement sont autorisés pendant les parties.
 
+<h2>Visuel de participation</h2>
+
+<p>
+Un visuel officiel de la Nuclear Haunted Cup #3 est mis à disposition des participants.
+Vous pouvez l'afficher sur votre stream afin d'indiquer votre participation au tournoi.
+</p>
+
+<div class="nhc-stream-visual">
+  <img src="{{ '/assets/downloads/nhc3-visuel-participation.gif' | relative_url }}"
+       alt="Visuel officiel de participation à la Nuclear Haunted Cup #3">
+</div>
+
+<div class="nhc-actions">
+  <a class="nhc-action"
+     href="{{ '/assets/downloads/nhc3-visuel-participation.gif' | relative_url }}"
+     download>Télécharger le visuel</a>
+</div>
+
 ## Calculateur de points
 
 Le calculateur officiel du tournoi permet de faciliter le suivi du score.
