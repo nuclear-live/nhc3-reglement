@@ -38,16 +38,19 @@ participant_image: "/assets/participants/Ragzod.png"
 
 ## Présentation
 
-À venir.
+Coucou, moi c’est Ragzod! Streameuse québécoise qui adore foncer dans les maisons hantées de Phasmophobia… mais j’en ressors rarement vivante 🥲
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :**
+Ça fait maintenant 1 an bien pile que je joue à Phasmophobia et j’adore ça! Je suis rendue Prestige 6 et je joue de manière assez fonceuse, avec peut-être un peu trop d’espoir de survivre haha. Ce que j’aime le plus du jeu, c’est le côté déduction, avec toutes les petites particularités de chaque entité.
+
+**Spécialité :**
+Ma spécialité? Survivre? Looper? Nahhh… prendre les médias, bien sûr! Et être l’appât professionnel de service 🥲😆
 
 ## À propos
 
-À venir.
+Sinon, un peu plus à propos de ma chaîne et de moi! Je suis une streameuse québécoise qui adore Phasmophobia, mais qui aime aussi beaucoup les jeux de coopération « funny » avec mes amis! J’aime aussi les jeux de survie, les jeux de puzzle et tout ce qui est cozy! 💜
 
 ## Parcours dans la Nuclear Haunted Cup
 
