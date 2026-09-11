@@ -66,4 +66,4 @@ En cas d'égalité de points, **le temps réalisé sert à départager les parti
 
 Si les deux participants ont dépassé le temps imparti en raison d'une chasse ou d'un événement les empêchant de quitter normalement la partie, le temps ne permet plus de les départager.
 
-Dans ce cas, **le total des points obtenus sur l'intégralité du tournoi sera cumulé** afin de déterminer le classement.
+Dans ce cas, **le total des points obtenus sur l'intégralité du tournoi sera cumulé** afin de déterminer le classement du podium final.
