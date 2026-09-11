@@ -59,3 +59,11 @@ Une partie parfaite rapporte **1 point bonus supplémentaire**.
 Le score de chaque partie est calculé par le modérateur du streamer, puis vérifié par l'équipe d'organisation avant sa validation définitive.
 
 En cas de contestation, une capture d'écran servant de preuve pourra être demandée au modérateur. Il est donc demandé de conserver une capture de tout élément permettant l'attribution de points, notamment le journal, les médias ou le débriefing.
+
+## Départage en cas d'égalité
+
+En cas d'égalité de points, **le temps réalisé sert à départager les participants**.
+
+Si les deux participants ont dépassé le temps imparti en raison d'une chasse ou d'un événement les empêchant de quitter normalement la partie, le temps ne permet plus de les départager.
+
+Dans ce cas, **le total des points obtenus sur l'intégralité du tournoi sera cumulé** afin de déterminer le classement.
