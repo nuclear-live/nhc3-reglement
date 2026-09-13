@@ -27,6 +27,8 @@ Le participant doit prévenir immédiatement son modérateur et l’équipe d’
 
 Il ne doit pas relancer une partie ou modifier les paramètres sans avoir reçu de consigne.
 
+Si personne ne prévient l'organisation, elle ne pourra rien faire une fois la partie finie.
+
 ## Décision de l’organisation
 
 Selon la nature de l’incident, l’organisation pourra décider :
