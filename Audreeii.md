@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 2
 nav_exclude: true
 search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Audreeii.png"
 ---
 
