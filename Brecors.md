@@ -26,7 +26,7 @@ participant_image: "/assets/participants/Brecors.png"
     <div class="nhc-participant-links">
       <a
         class="nhc-action"
-        href="https://www.twitch.tv/audreeii"
+        href="https://www.twitch.tv/brecors"
         target="_blank"
         rel="noopener noreferrer"
       >
