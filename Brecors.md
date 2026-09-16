@@ -43,7 +43,7 @@ BreCors (Breton/Corse), chasseur de fantôme plus enthousiaste que efficace. Bie
 ## Informations
 
 **Expérience sur Phasmophobia :**
-Je suis sur Phasmophobia depuis juin 2026, je joue beaucoup en multijoueur même si j'aime beaucoup le solo du jeu. Les mécaniques, les preuves et les comportements des fantômes sont relativement acquise X'D même si parfois je suis complétement à coté de la plaque concernant l'identité de l'entité.
+Je suis sur Phasmophobia depuis juin 2023, je joue beaucoup en multijoueur même si j'aime beaucoup le solo du jeu. Les mécaniques, les preuves et les comportements des fantômes sont relativement acquise X'D même si parfois je suis complétement à coté de la plaque concernant l'identité de l'entité.
 
 **Spécialité :**
 Je trouve souvent le fantôme très rapidement sur la map mais en contre partie si un bug est possible c'est toujours pour ma gueule X'D je me suis softlock un nombre de fois considérable sur Phasmo .
