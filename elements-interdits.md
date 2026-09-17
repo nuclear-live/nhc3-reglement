@@ -26,7 +26,8 @@ Sont notamment considérés comme des usebugs interdits :
 
 - l’exploitation du pathfinding autour du piano de Bleasdale ;
 - le fait de se placer sur ou dans un élément du décor afin de devenir inaccessible à l’entité ;
-- toute position ou boucle reposant sur un défaut de collision ou de déplacement de l’entité.
+- toute position ou boucle reposant sur un défaut de collision ou de déplacement de l’entité;
+- toute utilisation abusive des hitboxs et autres éléments (exemple: utiliser le tarot à l'entrée de la maison en reculant à l'extérieur pour ne pas subir la carte).
 
 Cette liste n’est pas exhaustive.
 
