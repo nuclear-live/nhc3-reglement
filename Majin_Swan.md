@@ -38,16 +38,21 @@ participant_image: "/assets/participants/Majin_Swan.png"
 
 ## Présentation
 
-À venir.
+MajinSwan, chasseur de fantômes au deux mains gauche! Toujours une bêtise, un bug c’est pour ma pomme et les esprits ont un affecte pour me troll ou me tuer sans sommation ! Un peu poissard mais je me soigne !
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :**
+
+Je joue à Phasmophobia environ 4 ans sans forcément de fréquence ponctuelle, je reste en mode chill and fun sans se prendre la tête ! Principalement en solo mais le multi me dérange pas pour autant... Je suis prestige 4 LVL 177... Je passe plus les prestige, le T1 en solo.... Non merci ! 
+
+**Spécialité :**
+
+Je me dévoue facilement ! Donc.... Servir de proie pour au final pas beaucoup aider…. Oh un objet maudit si je jouais avec... 
 
 ## À propos
 
-À venir.
+Sur ma chaîne, on retrouve principalement des jeux en tout genre que ça soit pokemon, zelda  disney ou des jeux d’horreur, on est friand de jeux où les pensées peuvent être différentes pour les +18. Eh oui j’ai une chaine bien beauf et on le vaut bien !
 
 ## Parcours dans la Nuclear Haunted Cup
 
