@@ -38,17 +38,23 @@ participant_image: "/assets/participants/emmagan24.png"
 
 ## Présentation
 
-À venir.
+Emmagan, ghostbuster à temps partiel et victime professionnelle à temps partiel. Toujours volontaire pour entrer dans la maison, moi peur jamais, je cours me cacher au moindre bruit suspect.
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :**
+
+Je joue à Phasmophobia depuis presque 2 ans (sa fera 2 ans au 12 nov), surtout en multijoueur. Je connais bien les mécaniques principales et les bugs (sinon sa serai pas phasmo), les preuves et les comportements des fantômes, avec malgré tout des moments de solitude quand le jeu décide de me faire mentir.
+
+
+**Spécialité :**
+
+Le tiramisu (à pardon ce n’est pas phasmo sa) Identifier les fantômes grâce à leur comportement pendant les chasses et éliminer rapidement les possibilités. Je suis aussi plutôt à l’aise avec la gestion de la sanité et les tests spécifiques.
 
 ## À propos
 
-À venir.
+Sur ma chaîne, on retrouve principalement des jeux d’horreur, de coopération et parfois quelques aventures narratives quand mon rythme cardiaque réclame des congés. J’aime les jeux narratifs ou chaque choix compte et tester aussi des nouveautés et parler de tous et de rien. L’ambiance est surtout posée (c’est dû à mon grand âge), la bonne humeur est de rigueur, les discussions avec le tchat et parfaitement raisonnable de cris. Hors Phasmophobia (des insultes peuvent sortir, mais je me soigne), je serai heureux de vous accueillir dans mon univers
 
 ## Parcours dans la Nuclear Haunted Cup
 
-**NHC #2 :** Participante
+**NHC #2 :** Participant
