@@ -5,7 +5,7 @@ parent: Participants
 nav_order: 5
 nav_exclude: true
 search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Bunny_Island.png"
 ---
 
