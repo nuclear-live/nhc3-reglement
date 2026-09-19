@@ -1,8 +1,14 @@
-name: Reveal Jelyla
+name: Reveal participants
 
 on:
   schedule:
     - cron: '45 13 21 9 *'
+      timezone: 'Europe/Paris'
+
+    - cron: '45 13 23 9 *'
+      timezone: 'Europe/Paris'
+
+    - cron: '45 13 25 9 *'
       timezone: 'Europe/Paris'
 
   workflow_dispatch:
@@ -19,12 +25,42 @@ jobs:
       - name: Recuperer le site
         uses: actions/checkout@v4
 
-      - name: Publier la fiche de Jelyla
+      - name: Determiner la fiche a publier
+        id: participant
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+
+          case "$TODAY" in
+            "2026-09-21")
+              echo "file=Jelyla.md" >> "$GITHUB_OUTPUT"
+              echo "title=Jelyla" >> "$GITHUB_OUTPUT"
+              ;;
+            "2026-09-23")
+              echo "file=Morgameover.md" >> "$GITHUB_OUTPUT"
+              echo "title=Morgameover" >> "$GITHUB_OUTPUT"
+              ;;
+            "2026-09-25")
+              echo "file=olcy__.md" >> "$GITHUB_OUTPUT"
+              echo "title=olcy__" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "file=" >> "$GITHUB_OUTPUT"
+              ;;
+          esac
+
+      - name: Publier la fiche
+        if: steps.participant.outputs.file != ''
+        env:
+          FILE: ${{ steps.participant.outputs.file }}
+          TITLE: ${{ steps.participant.outputs.title }}
         run: |
           python3 - <<'PY'
+          import os
           from pathlib import Path
 
-          path = Path("Jelyla.md")
+          path = Path(os.environ["FILE"])
+          title = os.environ["TITLE"]
+
           text = path.read_text(encoding="utf-8")
 
           text = text.replace("published: false", "published: true")
@@ -33,28 +69,33 @@ jobs:
 
           if "parent: Participants" not in text:
               text = text.replace(
-                  "title: Jelyla\n",
-                  "title: Jelyla\nparent: Participants\n"
+                  f"title: {title}\n",
+                  f"title: {title}\nparent: Participants\n"
               )
 
           path.write_text(text, encoding="utf-8")
           PY
 
       - name: Enregistrer la publication
+        if: steps.participant.outputs.file != ''
+        env:
+          FILE: ${{ steps.participant.outputs.file }}
+          TITLE: ${{ steps.participant.outputs.title }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Jelyla.md
+          git add "$FILE"
 
           if git diff --cached --quiet; then
             echo "La fiche est deja publiee."
           else
-            git commit -m "Reveal Jelyla"
+            git commit -m "Reveal $TITLE"
             git push
           fi
 
       - name: Reconstruire GitHub Pages
+        if: steps.participant.outputs.file != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
