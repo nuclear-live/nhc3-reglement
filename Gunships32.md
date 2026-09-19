@@ -38,16 +38,22 @@ participant_image: "/assets/participants/Gunships32.png"
 
 ## Présentation
 
-À venir.
+Je m'appelle gunship.
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :**
+
+Je joue a phasmophobia depuis trop longtemps pour me rappeler depuis quand.
+
+**Spécialité :**
+
+Très a l aise dans l art de me faire attraper par l'entité en tentant de trouver des preuves 
+j arrive néanmoins a me rappeler de quelques particularité des entités
 
 ## À propos
 
-À venir.
+Sur ma chaine je joue a peu près tout les styles de jeux sauf les jeux de courses et de sport0
 
 ## Parcours dans la Nuclear Haunted Cup
 
