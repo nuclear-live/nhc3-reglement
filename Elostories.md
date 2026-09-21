@@ -38,16 +38,24 @@ participant_image: "/assets/participants/EloStories.png"
 
 ## Présentation
 
-À venir.
+Elo, joueuse solo, plutôt bavarde et facilement distraite. J’apprends vite… mais il faut m’expliquer longtemps. 😅 Je suis surtout là pour passer un bon moment et prendre de mauvaises décisions.
 
 ## Informations
 
-**Expérience sur Phasmophobia :** À venir<br>
-**Spécialité :** À venir
+**Expérience sur Phasmophobia :** 
+
+Je joue depuis quelques années, principalement en solo. Je connais plutôt bien le jeu, même si j’oublie régulièrement certaines spécificités des entités et que ma concentration me fait parfois défaut.
+Je joue en Cauchemar, parce que faut pas déconner, je suis pas assez forte pour le sans-preuve. 😂
+
+**Spécialité :**
+
+La chance. 😂
+Et quand elle ne suffit pas, j’essaie de me fier au comportement du fantôme… avec plus ou moins de succès.
 
 ## À propos
 
-À venir.
+Chaîne principalement axée sur les jeux d’horreur, avec beaucoup (trop) de blabla.
+Et quand je ne joue pas à des jeux d’horreur, je regarde des films d’horreur. Logique. 😅
 
 ## Parcours dans la Nuclear Haunted Cup
 
