@@ -3,9 +3,7 @@ layout: default
 title: Jelyla
 parent: Participants
 nav_order: 11
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Jelyla.png"
 ---
 
