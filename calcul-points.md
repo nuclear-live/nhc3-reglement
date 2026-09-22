@@ -56,7 +56,7 @@ Une partie parfaite rapporte **1 point bonus supplémentaire**.
 
 En cas de **lune de sang**, aucun remake de la game ne sera fait (du fait que la météo ne sera découverte qu'après le top départ, pour des raisons d'organisation on ne peut pas refaire faire la game). En contre-partie, et pour équilibrer la difficulté, en cas de mort du joueur le malus sera seulement de -1 point au lieu de 2.
 
-De même, si un joueur meurt pendant la game, et se fait récussiter par une grand prêtresse ou la monkey paw, la mort ne compte pas. Seul le tableau de fin fait fois de la mort ou pas du joueur.
+De même, si un joueur meurt pendant la game, et se fait récussiter par une grand prêtresse ou la monkey paw, la mort ne compte pas. Seul le tableau de fin de partie fait foi pour déterminer si un joueur est considéré comme mort. Toutefois, un décès survenu après la fin du temps imparti de la partie n'est pas comptabilisé.
 
 ## Validation du score
 
