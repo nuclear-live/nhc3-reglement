@@ -3,7 +3,7 @@ layout: default
 title: Outils utiles
 parent: Astuces et ressources
 nav_order: 2
-published: false
+published: true
 ---
 
 # Outils utiles
