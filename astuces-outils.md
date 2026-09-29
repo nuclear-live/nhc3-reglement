@@ -34,7 +34,7 @@ Vous pouvez l'afficher sur votre stream afin d'indiquer votre participation au t
 
 Le calculateur officiel du tournoi permet de faciliter le suivi du score.
 
-Il est également accessible depuis la page [**Calcul des points**]([https://yekelle.github.io/nhc3/calcul-points.html](https://nuclear-live.github.io/nhc3-reglement/calcul-points.html)) du règlement.
+Il est également accessible depuis la page [**Calcul des points**]([https://nuclear-live.github.io/nhc3-reglement/calcul-points.html)) du règlement.
 
 ## Trackers et outils Phasmophobia
 
