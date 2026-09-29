@@ -71,3 +71,18 @@ En cas d'égalité de points, **le temps réalisé sert à départager les parti
 Si les deux participants ont dépassé le temps imparti en raison d'une chasse ou d'un événement les empêchant de quitter normalement la partie, le temps ne permet plus de les départager.
 
 Dans ce cas, **le total des points obtenus sur l'intégralité du tournoi sera cumulé** afin de déterminer le classement du podium final.
+
+<h2>Calculateur de points</h2>
+
+<p>
+Un calculateur est mis à disposition afin de rentrer facilement le score à la fin d'une partie.
+</p>
+
+<div class="nhc-actions">
+  <a class="nhc-action"
+     href="https://docs.google.com/spreadsheets/d/1ZSG1kue9dNc85vy-_ZM8sUiIVbgoU8ppDpbKfkPp3LU/edit?gid=0#gid=0"
+     target="_blank"
+     rel="noopener">
+    Ouvrir le calculateur
+  </a>
+</div>
