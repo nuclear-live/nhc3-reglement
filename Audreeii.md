@@ -3,8 +3,6 @@ layout: default
 title: Audreeii
 parent: Participants
 nav_order: 2
-nav_exclude: true
-search_exclude: true
 published: true
 participant_image: "/assets/participants/Audreeii.png"
 ---
