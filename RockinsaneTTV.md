@@ -3,8 +3,6 @@ layout: default
 title: RockinsaneTTV
 parent: Participants
 nav_order: 17
-nav_exclude: true
-search_exclude: true
 published: true
 participant_image: "/assets/participants/RockinsaneTTV.png"
 ---
