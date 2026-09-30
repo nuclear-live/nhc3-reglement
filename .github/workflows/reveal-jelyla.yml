@@ -2,11 +2,16 @@ name: Reveal participants
 
 on:
   schedule:
-    - cron: '45 13 30 9 *'
+    - cron: '30 13 2 10 *'
       timezone: 'Europe/Paris'
 
-    - cron: '45 13 2 10 *'
+    - cron: '40 13 2 10 *'
       timezone: 'Europe/Paris'
+
+    - cron: '50 13 2 10 *'
+      timezone: 'Europe/Paris'
+
+  workflow_dispatch:
 
   workflow_dispatch:
 
