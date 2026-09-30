@@ -3,8 +3,6 @@ layout: default
 title: Brecors
 parent: Participants
 nav_order: 4
-nav_exclude: true
-search_exclude: true
 published: true
 participant_image: "/assets/participants/Brecors.png"
 ---
