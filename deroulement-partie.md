@@ -62,3 +62,13 @@ Si une chasse est encore en cours au moment du top de fin, le participant attend
 Une mort survenant après la fin du temps imparti, lors du retour au camion, n'entraîne pas de retrait de points.
 
 Aucun objectif réalisé après le top de fin ne sera comptabilisé. Par exemple : échapper à une chasse ne sera pas validé.
+
+## Rôle des modérateurs
+
+Afin de faciliter le bon déroulement du tournoi, les modérateurs seront présents pour seconder le streamer pendant ses parties.
+
+Votre rôle sera notamment de :
+
+- **Comptabiliser les points** à l'aide du calculateur mis à disposition par l'organisation. Un guide vous permettra de connaître les éléments à vérifier ainsi que les preuves ou informations qui pourront vous être demandées.
+
+- **Veiller au respect des règles dans le chat**, notamment concernant le backseat. Un guide a également été fourni aux streamers afin de mettre en place des mots-clés interdits pendant l'évènement. Ces filtres ne pouvant pas couvrir toutes les situations, il vous appartient également de surveiller les messages qui pourraient contenir une information interdite et de les supprimer rapidement afin d'éviter qu'elle ne soit transmise au streamer.
