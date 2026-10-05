@@ -3,9 +3,7 @@ layout: default
 title: Berl_uue
 parent: Participants
 nav_order: 3
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Berl_uue.png"
 ---
 
