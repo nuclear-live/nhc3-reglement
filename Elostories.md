@@ -3,9 +3,7 @@ layout: default
 title: EloStories
 parent: Participants
 nav_order: 8
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/EloStories.png"
 ---
 
