@@ -1204,3 +1204,14 @@ code {
   z-index: 90;
   background: rgba(5, 3, 3, 0.78);
 }
+/* Largeur de la barre de recherche */
+@media (min-width: 50rem) {
+  .search-input-wrap {
+    max-width: 760px;
+  }
+
+  .search-results {
+    width: 760px;
+    max-width: 800px;
+  }
+}
