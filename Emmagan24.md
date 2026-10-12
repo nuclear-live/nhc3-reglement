@@ -3,9 +3,7 @@ layout: default
 title: Emmagan24
 parent: Participants
 nav_order: 9
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/emmagan24.png"
 ---
 
