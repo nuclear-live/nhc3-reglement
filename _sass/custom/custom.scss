@@ -1169,3 +1169,38 @@ code {
   margin: 0 auto;
   border-radius: 8px;
 }
+/* =========================================================
+   CORRECTION RECHERCHE
+   ========================================================= */
+
+/* Le header ne forme plus une grosse barre noire */
+.main-header {
+  position: relative;
+  z-index: 100;
+  background: transparent;
+  border-bottom-color: transparent;
+  backdrop-filter: none;
+}
+
+/* La recherche reste au-dessus du contenu */
+.search {
+  z-index: 101;
+}
+
+/* Résultats bien opaques et au-dessus de la page */
+.search-results {
+  z-index: 102;
+  background: #171310;
+  border: 1px solid rgba(150, 80, 255, 0.22);
+  border-top: 0;
+}
+
+/* Quand la recherche est ouverte */
+.search-active .main-header {
+  z-index: 100;
+}
+
+.search-active .search-overlay {
+  z-index: 90;
+  background: rgba(5, 3, 3, 0.78);
+}
