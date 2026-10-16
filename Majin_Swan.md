@@ -2,7 +2,7 @@
 layout: default
 title: Majin_Swan
 parent: Participants
-nav_order: 12
+nav_order: 13
 published: trur
 participant_image: "/assets/participants/Majin_Swan.png"
 ---
