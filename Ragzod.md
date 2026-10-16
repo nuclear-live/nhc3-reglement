@@ -2,7 +2,7 @@
 layout: default
 title: Ragzod
 parent: Participants
-nav_order: 16
+nav_order: 18
 published: true
 participant_image: "/assets/participants/Ragzod.png"
 ---
