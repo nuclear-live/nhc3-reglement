@@ -3,9 +3,7 @@ layout: default
 title: Captain__kibobo
 parent: Participants
 nav_order: 7
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Captain__kibobo.png"
 ---
 
