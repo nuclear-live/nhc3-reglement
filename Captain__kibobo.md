@@ -46,8 +46,6 @@ Je suis quelqu’un de plutôt calme et posé, mais toujours là pour rigoler et
 
 J’ai commencé Phasmophobia il y a environ 4 ans, avant de faire une longue pause. Aujourd’hui, je suis de retour sur les enquêtes paranormales et j’espère avoir gardé mes talents d’enquêteur… même si les fantômes risquent de me rappeler que les réflexes peuvent se perdre ! 👻🔦
 
-**Spécialité :**
-
 ## À propos
 
 Mais je ne navigue pas sur un seul océan ! 🎮 Je joue également à Dead by Daylight, ARC Raiders, Call of Duty et F1, et bien d’autres jeux. Que ce soit pour survivre, affronter d’autres joueurs, partir à l’aventure ou prendre le volant, l’objectif reste toujours le même : rigoler, jouer et passer un bon moment avec la communauté. 
