@@ -18,7 +18,7 @@ participant_image: "/assets/participants/Ragzod.png"
     <h1 class="nhc-participant-name">Ragzod</h1>
 
     <p class="nhc-participant-summary">
-      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
+      Participante de la Nuclear Haunted Cup #3 : Apocalypse.
     </p>
 
     <div class="nhc-participant-links">
