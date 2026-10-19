@@ -18,7 +18,7 @@ participant_image: "/assets/participants/Captain__kibobo.png"
     <h1 class="nhc-participant-name">Captain__kibobo</h1>
 
      <p class="nhc-participant-summary">
-      Participante de la Nuclear Haunted Cup #3 : Apocalypse.
+      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
     </p>
 
     <div class="nhc-participant-links">
