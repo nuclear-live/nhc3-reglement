@@ -3,9 +3,7 @@ layout: default
 title: Gunships32
 parent: Participants
 nav_order: 10
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/Gunships32.png"
 ---
 
