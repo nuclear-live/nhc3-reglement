@@ -18,7 +18,7 @@ participant_image: "/assets/participants/Brecors.png"
     <h1 class="nhc-participant-name">Brecors</h1>
 
     <p class="nhc-participant-summary">
-      Participante de la Nuclear Haunted Cup #3 : Apocalypse.
+      Participant de la Nuclear Haunted Cup #3 : Apocalypse.
     </p>
 
     <div class="nhc-participant-links">
