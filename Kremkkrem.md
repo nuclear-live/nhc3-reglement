@@ -3,9 +3,7 @@ layout: default
 title: Kremkkrem
 parent: Participants
 nav_order: 12
-nav_exclude: true
-search_exclude: true
-published: false
+published: true
 participant_image: "/assets/participants/kremkkrem.png"
 ---
 
