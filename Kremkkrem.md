@@ -4,7 +4,7 @@ title: Kremkkrem
 parent: Participants
 nav_order: 12
 published: true
-participant_image: "/assets/participants/kremkkrem.png"
+participant_image: "/assets/participants/Kremkkrem.png"
 ---
 
 <div class="nhc-participant-header">
